@@ -1,0 +1,11 @@
+C:\Users\fifz\source\repos\VolunteerManagementSystem\VolunteerManagementSystem\bin\Debug\netcoreapp2.0\VolunteerManagementSystem.deps.json
+C:\Users\fifz\source\repos\VolunteerManagementSystem\VolunteerManagementSystem\bin\Debug\netcoreapp2.0\VolunteerManagementSystem.runtimeconfig.json
+C:\Users\fifz\source\repos\VolunteerManagementSystem\VolunteerManagementSystem\bin\Debug\netcoreapp2.0\VolunteerManagementSystem.runtimeconfig.dev.json
+C:\Users\fifz\source\repos\VolunteerManagementSystem\VolunteerManagementSystem\bin\Debug\netcoreapp2.0\VolunteerManagementSystem.dll
+C:\Users\fifz\source\repos\VolunteerManagementSystem\VolunteerManagementSystem\bin\Debug\netcoreapp2.0\VolunteerManagementSystem.pdb
+C:\Users\fifz\source\repos\VolunteerManagementSystem\VolunteerManagementSystem\obj\Debug\netcoreapp2.0\VolunteerManagementSystem.csproj.CoreCompileInputs.cache
+C:\Users\fifz\source\repos\VolunteerManagementSystem\VolunteerManagementSystem\obj\Debug\netcoreapp2.0\VolunteerManagementSystem.AssemblyInfoInputs.cache
+C:\Users\fifz\source\repos\VolunteerManagementSystem\VolunteerManagementSystem\obj\Debug\netcoreapp2.0\VolunteerManagementSystem.AssemblyInfo.cs
+C:\Users\fifz\source\repos\VolunteerManagementSystem\VolunteerManagementSystem\obj\Debug\netcoreapp2.0\VolunteerManagementSystem.dll
+C:\Users\fifz\source\repos\VolunteerManagementSystem\VolunteerManagementSystem\obj\Debug\netcoreapp2.0\VolunteerManagementSystem.pdb
+C:\Users\fifz\source\repos\VolunteerManagementSystem\VolunteerManagementSystem\obj\Debug\netcoreapp2.0\VolunteerManagementSystem.csprojAssemblyReference.cache

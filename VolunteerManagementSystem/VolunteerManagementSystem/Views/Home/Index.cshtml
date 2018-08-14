@@ -1,0 +1,9 @@
+﻿@model VolunteerManagementSystem.Models.Login
+@{
+    ViewData["Title"] = "Login";
+}
+
+<h2>Login</h2>
+<br /><p>Username: <input id="Username" type="text" value="@Login.UserName"/></p>
+<p>Password: <input id="Password" type="password" value="@Login.Password"/></p>
+<a href="~/Home/Admin" class="Button"><input type ='button' value="Login"/></a>
