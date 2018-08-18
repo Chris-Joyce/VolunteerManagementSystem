@@ -33,6 +33,10 @@ namespace VolunteerManagementSystem.Controllers
         {
             return View();
         }
+        public IActionResult AddOpportunity()
+        {
+            return View();
+        }
         public IActionResult About()
         {
             ViewData["Message"] = "Your application description page.";

@@ -2,4 +2,24 @@
     ViewData["Title"] = "Manage Opportunities";
 }
 <h2>@ViewData["Title"]</h2>
+<table border="1">
+    <tr>
+        <td>Opportunity1</td>
+        <td>Edit Opportunity button</td>
+        <td>Remove Opportunity button</td>
+    </tr>
+    <tr>
+        <td>Opportunity1</td>
+        <td>Edit Opportunity button</td>
+        <td>Remove Opportunity button</td>
+    </tr>
+</table><br />
+<p>Opportunity Filter: <select id="Filter">
+        <option>Most Recent (60 days)</option>
+        <option>By Center</option>
+    </select>
+</p>
+<p>Search: <input id="Search Oppotrunities" type="text" /> <input id="btnSearch" type="button" value="Search" /></p>
+<p>View Volunteer Opportunity Matches: <input id="btnMatches" type="button" value="View Volunteer Opportunity Matches" /></p>
+<p><a href="~/Home/AddOpportunity" class="Button"><input type='button' value="Add Opportunity" /></a></p>
 <a href="~/Home/Admin" class="Button">Back</a>
