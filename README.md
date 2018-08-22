@@ -1,2 +1,4 @@
 # VolunteerManagementSystem
-Can you see this? -Karla
+VolunteerManagementSystem - Christopher Joyce
+PreSemesterProject - Karla Clifford
+PreSemester Project2 - Daniel Lee
