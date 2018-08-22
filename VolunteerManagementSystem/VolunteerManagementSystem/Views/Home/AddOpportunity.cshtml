@@ -1,9 +1,13 @@
 ﻿
 @{
-    ViewData["Title"] = "AddOpportunity";
+    ViewData["Title"] = "Add Opportunity";
 }
+@model List<Opportunity>
+<h2>Add Opportunity</h2>
 
-<h2>AddOpportunity</h2>
+<p>Input Opportunity to add: <input id="txtCenter" type="text" /> <input id="txtDate" type="text" /> <input id="btnAddOpp" type="button" value="Add Opportunity" /></p>
+<input type="button" value="Add Opportunity" onclick="@Opportunity.AddOpp("testcenter", "testdate")"/>
 
-<p>Input Opportunity to add: <input id="txtAddOpp" type="text" /> <input id="btnAddOpp" type="button" value="Add Opportunity" /></p>
 
+
+<a href="/Home/ManageOpportunities" class="Button">Manage Opportunities</a><br />

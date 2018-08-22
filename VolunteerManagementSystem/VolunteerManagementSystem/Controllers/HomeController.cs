@@ -1,5 +1,6 @@
 ﻿using System;
 using System.Collections.Generic;
+using System.Data.SqlClient;
 using System.Diagnostics;
 using System.Linq;
 using System.Threading.Tasks;
@@ -10,6 +11,18 @@ namespace VolunteerManagementSystem.Controllers
 {
     public class HomeController : Controller
     {
+        private List<Opportunity> opp;
+        public HomeController() {
+            opp = new List<Opportunity>
+            {
+                new Opportunity()
+                { Center = "center1", Date = "1/30/19" },
+                new Opportunity()
+                { Center = "center2", Date = "2/12/19" }
+            };
+            
+        }
+
         public IActionResult Index()
         {
             return View();
@@ -31,12 +44,13 @@ namespace VolunteerManagementSystem.Controllers
         }
         public IActionResult ManageOpportunities()
         {
-            return View();
+            return View(opp);
         }
         public IActionResult AddOpportunity()
         {
             return View();
         }
+    
         public IActionResult About()
         {
             ViewData["Message"] = "Your application description page.";

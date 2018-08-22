@@ -1,20 +1,28 @@
 ﻿@{
     ViewData["Title"] = "Manage Opportunities";
 }
+@model List<Opportunity>
 <h2>@ViewData["Title"]</h2>
+
 <table border="1">
     <tr>
-        <td>Opportunity1</td>
-        <td>Edit Opportunity button</td>
-        <td>Remove Opportunity button</td>
+        <th>Center</th>
+        <th>Date</th>
+        <th>Edit</th>
+        <th>Remove</th>
     </tr>
-    <tr>
-        <td>Opportunity1</td>
-        <td>Edit Opportunity button</td>
-        <td>Remove Opportunity button</td>
-    </tr>
+    @foreach (var oppd in Model)
+    {
+        <tr>
+            <td>@oppd.Center</td>
+            <td>@oppd.Date</td>
+            <td><input id="Button1" type="button" value="Edit" /></td>
+            <td><input id="Button1" type="button" value="Remove" /></td>
+        </tr>
+    }
 </table><br />
-<p>Opportunity Filter: <select id="Filter">
+<p>
+    Opportunity Filter: <select id="Filter">
         <option>Most Recent (60 days)</option>
         <option>By Center</option>
     </select>
