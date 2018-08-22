@@ -1,0 +1,12 @@
+﻿@{
+    ViewData["Title"] = "Admin Login";
+}
+<h2>@ViewData["Title"]</h2>
+<h3>@ViewData["Message"]</h3>
+
+<p>
+    @Html.TextBox("TextBoxName")@*closes window? why?*@
+    @Html.TextBox("TextBoxName")
+    <a asp-area="" asp-controller="Home" asp-action="Contact">Log In</a> <br />
+</p>
+

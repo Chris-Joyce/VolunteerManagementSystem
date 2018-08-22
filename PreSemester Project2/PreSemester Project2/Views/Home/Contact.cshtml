@@ -1,0 +1,10 @@
+﻿@{
+    ViewData["Title"] = " ";
+}
+<h2>@ViewData["Title"]</h2>
+<h3>@ViewData["Message"]</h3>
+
+<p>
+    <a asp-area="" asp-controller="Home" asp-action="Index">Manage Volunteers</a> <br />
+    <a asp-area="" asp-controller="Home" asp-action="Index">Manage Oppurtunities</a> <br />@*this currently also goes to Manage volunteers page, but should not in the future*@
+</p>
