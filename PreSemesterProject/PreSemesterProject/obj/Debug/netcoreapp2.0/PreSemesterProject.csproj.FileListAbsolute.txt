@@ -1,0 +1,11 @@
+C:\Users\karla\source\repos\PreSemesterProject\PreSemesterProject\bin\Debug\netcoreapp2.0\PreSemesterProject.deps.json
+C:\Users\karla\source\repos\PreSemesterProject\PreSemesterProject\bin\Debug\netcoreapp2.0\PreSemesterProject.runtimeconfig.json
+C:\Users\karla\source\repos\PreSemesterProject\PreSemesterProject\bin\Debug\netcoreapp2.0\PreSemesterProject.runtimeconfig.dev.json
+C:\Users\karla\source\repos\PreSemesterProject\PreSemesterProject\bin\Debug\netcoreapp2.0\PreSemesterProject.dll
+C:\Users\karla\source\repos\PreSemesterProject\PreSemesterProject\bin\Debug\netcoreapp2.0\PreSemesterProject.pdb
+C:\Users\karla\source\repos\PreSemesterProject\PreSemesterProject\obj\Debug\netcoreapp2.0\PreSemesterProject.csprojAssemblyReference.cache
+C:\Users\karla\source\repos\PreSemesterProject\PreSemesterProject\obj\Debug\netcoreapp2.0\PreSemesterProject.csproj.CoreCompileInputs.cache
+C:\Users\karla\source\repos\PreSemesterProject\PreSemesterProject\obj\Debug\netcoreapp2.0\PreSemesterProject.AssemblyInfoInputs.cache
+C:\Users\karla\source\repos\PreSemesterProject\PreSemesterProject\obj\Debug\netcoreapp2.0\PreSemesterProject.AssemblyInfo.cs
+C:\Users\karla\source\repos\PreSemesterProject\PreSemesterProject\obj\Debug\netcoreapp2.0\PreSemesterProject.dll
+C:\Users\karla\source\repos\PreSemesterProject\PreSemesterProject\obj\Debug\netcoreapp2.0\PreSemesterProject.pdb
